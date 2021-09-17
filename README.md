@@ -1,7 +1,4 @@
 
-Beep Boop this is rachels change
-
-Corrected the changed made by Rachel
 
 Project Team Members: Ian McKibben
 
